@@ -1,0 +1,60 @@
+########################################################################################################
+                                        Folders & Files List
+########################################################################################################
+
+/* * **************************************************************************************************
+ * File - fileslist.txt
+ * Created On - 09 Nov 2014
+ * Updated On - 09 Nov 2014
+ * Description - This is the folders and files list.
+ * ************************************************************************************************** */
+
+--------------------------------------------------------------------------------------------------------
+Folders & Files List
+--------------------------------------------------------------------------------------------------------
+1. Documents
+2. Screen Shots
+3. SourceCode
+4. fileslist.txt
+5. readme.txt
+
+--------------------------------------------------------------------------------------------------------
+Documents Folder Files
+--------------------------------------------------------------------------------------------------------
+1. MatchMove/Documents/My Responsibilities.doc
+2. MatchMove/Documents/Requirements.doc
+3. MatchMove/Documents/Technologies Used.doc
+
+--------------------------------------------------------------------------------------------------------
+Screen Shots Folders
+--------------------------------------------------------------------------------------------------------
+
+1. MatchMove/Documents/Screen Shots/Front_End
+
+--------------------------------------------------------------------------------------------------------
+Front_End Folder Files
+--------------------------------------------------------------------------------------------------------
+1. MatchMove/Documents/Screen Shots/Front_End/1_Slider_1.png
+2. MatchMove/Documents/Screen Shots/Front_End/2_Slider_2.png
+3. MatchMove/Documents/Screen Shots/Front_End/3_Slider_3.png
+4. MatchMove/Documents/Screen Shots/Front_End/4_Slider_4.png
+5. MatchMove/Documents/Screen Shots/Front_End/5_Slider_5.png
+6. MatchMove/Documents/Screen Shots/Front_End/6_Reply_1.png
+7. MatchMove/Documents/Screen Shots/Front_End/7_Reply_2.png
+8. MatchMove/Documents/Screen Shots/Front_End/8_Reply_3.png
+9. MatchMove/Documents/Screen Shots/Front_End/9_Reply_4.png
+10. MatchMove/Documents/Screen Shots/Front_End/10_Reply_5.png
+11. MatchMove/Documents/Screen Shots/Front_End/11_W3C_Validation.png
+
+--------------------------------------------------------------------------------------------------------
+SourceCode Folders & Files
+--------------------------------------------------------------------------------------------------------
+
+1. MatchMove/SourceCode/index.html
+2. MatchMove/SourceCode/css/styles.css
+3. MatchMove/SourceCode/images/1.jpg
+4. MatchMove/SourceCode/images/2.jpg
+5. MatchMove/SourceCode/images/3.jpg
+6. MatchMove/SourceCode/images/4.jpg
+7. MatchMove/SourceCode/images/5.jpg
+8. MatchMove/SourceCode/robots.txt
