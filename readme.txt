@@ -13,7 +13,7 @@
 How to run the this application 
 --------------------------------------------------------------------------------------------------------
 
-Step 1 : Please open the following folder "Files/SourceCode/".
+Step 1 : Please open the following folder "MatchMove/SourceCode/".
 
 Step 2 : Please check index.html file.
 
